@@ -23,6 +23,7 @@ published: true
 - OS : Windows11 24H2 64bit
 - CPU : Intel i5 13700K
 - VS code
+
 基本的にWindows向けの記事になります。
 
 ## WSL2のアンインストール手順
